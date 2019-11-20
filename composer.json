@@ -1,0 +1,13 @@
+{
+    "name": "wmushtaq/localweather",
+    "description": "This package shows local weather",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wmushtaq\\LocalWeather\\": "src/"
+        }
+    }
+}
